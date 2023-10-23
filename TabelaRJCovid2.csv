@@ -1,3 +1,4 @@
+data;cidade;confirmados;obitos
 02/10/2021;Varre-Sai;2.859;7
 02/10/2021;Mendes;4.092;60
 02/10/2021;Macuco;1.121;12
@@ -5,89 +6,88 @@
 02/10/2021;Cordeiro;4.059;22
 02/10/2021;Rio Bonito;11.058;241
 02/10/2021;Iguaba Grande;5.181;141
-02/10/2021;TeresÛpolis;32.560;904
+02/10/2021;Teres√≥polis;32.560;904
 02/10/2021;Sapucaia;3.201;118
-02/10/2021;Santo AntÙnio de P·dua;7.391;157
+02/10/2021;Santo Ant√¥nio de P√°dua;7.391;157
 02/10/2021;Barra Mansa;30.947;665
-02/10/2021;ArmaÁ„o dos B˙zios;5.682;73
-02/10/2021;PiraÌ;4.502;104
-02/10/2021;S„o JosÈ de Ub·;1.092;8
+02/10/2021;Arma√ß√£o dos B√∫zios;5.682;73
+02/10/2021;Pira√≠;4.502;104
+02/10/2021;S√£o Jos√© de Ub√°;1.092;8
 02/10/2021;Itaperuna;15.429;268
 02/10/2021;Sumidouro;2.314;56
-02/10/2021;MacaÈ;37.619;763
+02/10/2021;Maca√©;37.619;763
 02/10/2021;Miguel Pereira;3.648;77
 02/10/2021;Carmo;2.695;50
 02/10/2021;Volta Redonda;38.134;1.229
-02/10/2021;S„o Jo„o da Barra;5.060;22
-02/10/2021;Porci˙ncula;2.614;90
-02/10/2021;Quissam„;3.458;78
+02/10/2021;S√£o Jo√£o da Barra;5.060;22
+02/10/2021;Porci√∫ncula;2.614;90
+02/10/2021;Quissam√£;3.458;78
 02/10/2021;Silva Jardim;2.915;31
 02/10/2021;Nova Friburgo;25.094;852
-02/10/2021;TrÍs Rios;10.758;274
+02/10/2021;Tr√™s Rios;10.758;274
 02/10/2021;Areal;1.656;51
-02/10/2021;Tangu·;4.463;130
+02/10/2021;Tangu√°;4.463;130
 02/10/2021;Pinheiral;3.258;77
 02/10/2021;Itaocara;2.929;81
 02/10/2021;Resende;16.542;505
-02/10/2021;ParaÌba do Sul;5.347;170
+02/10/2021;Para√≠ba do Sul;5.347;170
 02/10/2021;Engenheiro Paulo de Frontin;1.669;66
 02/10/2021;Bom Jesus do Itabapoana;4.369;108
 02/10/2021;Paty do Alferes;3.200;98
 02/10/2021;Cardoso Moreira;1.438;17
 02/10/2021;Rio das Ostras;17.072;502
-02/10/2021;NiterÛi;56.023;2.369
+02/10/2021;Niter√≥i;56.023;2.369
 02/10/2021;Miracema;2.946;143
 02/10/2021;Casimiro de Abreu;4.860;148
 02/10/2021;Carapebus;1.767;16
 02/10/2021;Cambuci;1.647;40
 02/10/2021;Porto Real;2.118;41
-02/10/2021;AperibÈ;1.233;31
-02/10/2021;S„o JosÈ do Vale do Rio Preto;2.269;75
+02/10/2021;Aperib√©;1.233;31
+02/10/2021;S√£o Jos√© do Vale do Rio Preto;2.269;75
 02/10/2021;Comendador Levy Gasparian;821;32
-02/10/2021;ItaguaÌ;12.684;398
-02/10/2021;ConceiÁ„o de Macabu;2.142;78
-02/10/2021;Laje do MuriaÈ;644;14
+02/10/2021;Itagua√≠;12.684;398
+02/10/2021;Concei√ß√£o de Macabu;2.142;78
+02/10/2021;Laje do Muria√©;644;14
 02/10/2021;Trajano de Moraes;919;5
 02/10/2021;Rio Claro;1.589;65
 02/10/2021;Guapimirim;5.202;190
 02/10/2021;Paraty;3.681;88
 02/10/2021;Vassouras;3.097;135
 02/10/2021;Angra dos Reis;17.161;540
-02/10/2021;S„o Sebasti„o do Alto;769;29
+02/10/2021;S√£o Sebasti√£o do Alto;769;29
 02/10/2021;Itatiaia;2.622;71
 02/10/2021;Natividade;1.195;28
-02/10/2021;Maric·;12.712;640
+02/10/2021;Maric√°;12.712;640
 02/10/2021;Mangaratiba;3.465;161
 02/10/2021;Cabo Frio;17.506;854
-02/10/2021;ValenÁa;5.762;204
+02/10/2021;Valen√ßa;5.762;204
 02/10/2021;Quatis;1.082;29
-02/10/2021;Barra do PiraÌ;7.539;390
+02/10/2021;Barra do Pira√≠;7.539;390
 02/10/2021;Campos dos Goytacazes;37.667;1.907
 02/10/2021;Bom Jardim;2.023;51
 02/10/2021;Rio de Janeiro;484.433;34.102
 02/10/2021;Paracambi;3.761;133
-02/10/2021;PetrÛpolis;20.933;1.488
-02/10/2021;ItaboraÌ;15.573;834
-02/10/2021;S„o GonÁalo;69.414;3.170
-02/10/2021;MagÈ;15.107;640
-02/10/2021;S„o Francisco de Itabapoana;2.474;102
+02/10/2021;Petr√≥polis;20.933;1.488
+02/10/2021;Itabora√≠;15.573;834
+02/10/2021;S√£o Gon√ßalo;69.414;3.170
+02/10/2021;Mag√©;15.107;640
+02/10/2021;S√£o Francisco de Itabapoana;2.474;102
 02/10/2021;Cachoeiras de Macacu;3.465;109
 02/10/2021;Rio das Flores;533;17
 02/10/2021;Araruama;7.378;484
-02/10/2021;S„o Pedro da Aldeia;5.684;325
+02/10/2021;S√£o Pedro da Aldeia;5.684;325
 02/10/2021;Belford Roxo;23.778;917
 02/10/2021;Queimados;6.889;227
 02/10/2021;Italva;633;31
 02/10/2021;Saquarema;3.720;312
-02/10/2021;SeropÈdica;3.313;203
-02/10/2021;S„o Jo„o de Meriti;16.336;1.307
-02/10/2021;Nova IguaÁu;25.841;2.058
+02/10/2021;Serop√©dica;3.313;203
+02/10/2021;S√£o Jo√£o de Meriti;16.336;1.307
+02/10/2021;Nova Igua√ßu;25.841;2.058
 02/10/2021;Arraial do Cabo;921;44
 02/10/2021;Duque de Caxias;25.929;1.702
-02/10/2021;NilÛpolis;4.531;561
+02/10/2021;Nil√≥polis;4.531;561
 02/10/2021;Santa Maria Madalena;274;11
 02/10/2021;Mesquita;4.247;490
 02/10/2021;Duas Barras;245;7
-02/10/2021;S„o FidÈlis;615;98
+02/10/2021;S√£o Fid√©lis;615;98
 02/10/2021;Japeri;1.235;142
-data;cidade;confirmados;obitos
